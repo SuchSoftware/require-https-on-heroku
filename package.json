@@ -11,6 +11,7 @@
     "heroku",
     "ssl"
   ],
+  "repository": "https://github.com/SuchSoftware/require-https-on-heroku",
   "author": "Ethan Garofolo <ethan@suchsoftware.com>",
   "license": "ISC"
 }
